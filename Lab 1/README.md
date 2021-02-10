@@ -73,12 +73,7 @@ Our device emulates a cuttlefish that is fluent in English listening. This cuttl
 
 Sketch a storyboard of the interactions you are planning. It does not need to be perfect, but must get across the behavior of the interactive device and the other characters in the scene. 
 **Include a picture of your storyboard here**
-
-![Picture of Storyboard](https://github.com/ah668/Interactive-Lab-Hub.git)
-
-
-
-
+![Image of Storyboard](https://github.com/ah668/Interactive-Lab-Hub/Lab1/Storyboard.png)
 Present your idea to the other people in your breakout room. You can just get feedback from one another or you can work together on the other parts of the lab.
 **Summarize feedback you got here.**
 
