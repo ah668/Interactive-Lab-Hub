@@ -79,6 +79,9 @@ Sketch a storyboard of the interactions you are planning. It does not need to be
 Present your idea to the other people in your breakout room. You can just get feedback from one another or you can work together on the other parts of the lab.
 **Summarize feedback you got here.**
 
+> Grace Tan said that it might make more sense to have the device be a "mood mug" on somebody's desk instead of a pet cuttlefish.  
+> Salmaan Qadir added on that having a napkin or tissue to act as the liquid changing colors inside of the mug for prototyping would make it a more immersive experience.
+> Alan Hsiao thinks that if you add sound to the mug like bubbles, it might help with the interaction.
 
 ## Part B. Act out the Interaction
 
@@ -86,8 +89,11 @@ Try physically acting out the interaction you planned. For now, you can just pre
 
 **Are there things that seemed better on paper than acted out?**
 
+> The changing colors is a little too subtle than we originally had hoped for. 
+
 **Are there new ideas that occur to you or your collaborators that come up from the acting?**
 
+> I think that if it played in the background music while changing colors (peaceful music for blue color...etc), it would be more noticeable.
 
 ## Part C. Prototype the device
 
@@ -97,6 +103,7 @@ Code for the "Tinkerbelle" tool, and instructions for setting up the server and 
 
 We invented this tool for this lab! 
 **Give us feedback on Tinkerbelle.**
+
 
 ## Part D. Wizard the device
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
