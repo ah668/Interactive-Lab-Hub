@@ -69,11 +69,13 @@ _Goals:_ What are the goals of each player? (e.g., jumping to a tree, opening th
 The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
 **Describe your setting, players, activity and goals here.**
 
-Our device emulates a cuttlefish that is fluent in English listening. This cuttlefish is located in the Ocean and one player will speak to the cuttlefish pet and the device will be able to change its colors based off of emotions from what is said. For example, if the player asks the cuttlefish if it wants to go out for a swim, the cuttlefish will turn blue signaling that it is excited to go for a swim. If the player starts yelling at the cuttlefish, it will turn red because it is either mad or sad.   
+> Our device emulates a cuttlefish that is fluent in English listening. This cuttlefish is located in the Ocean and one player will speak to the cuttlefish pet and the device > > will be able to change its colors based off of emotions from what is said. For example, if the player asks the cuttlefish if it wants to go out for a swim, the cuttlefish will > turn blue signaling that it is excited to go for a swim. If the player starts yelling at the cuttlefish, it will turn red because it is either mad or sad.   
 
 Sketch a storyboard of the interactions you are planning. It does not need to be perfect, but must get across the behavior of the interactive device and the other characters in the scene. 
 **Include a picture of your storyboard here**
-![Image of Storyboard](https://github.com/ah668/Interactive-Lab-Hub/Lab1/Storyboard.png)
+> ![Image of Storyboard](https://github.com/ah668/Interactive-Lab-Hub/Lab1/Storyboard.png)
+
+
 Present your idea to the other people in your breakout room. You can just get feedback from one another or you can work together on the other parts of the lab.
 **Summarize feedback you got here.**
 
